@@ -7,7 +7,7 @@ export default async function Page() {
     <Layout>
     <div>
       <h1>{homepage.properties.title}</h1>
-      <h2>sinnan test</h2>
+      <h2>sinnan t1est</h2>
       <pre>{JSON.stringify(homepage, null, 2)}</pre>
     </div>
     </Layout>
